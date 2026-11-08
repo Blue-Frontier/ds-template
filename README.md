@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://keepandroidopen.org">
+    <img src="assets/keep-android-open.svg" alt="Android will become a locked-down platform in 2027">
+  </a>
+</p>
+
 # ds-template
 
 Blue-Frontier 组织文档 / Issue / PR 模板 **单一真相源（SSOT）**。
